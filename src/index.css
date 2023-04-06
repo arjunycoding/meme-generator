@@ -98,4 +98,5 @@ main {
 
 .main--imageAndText {
   position: relative;
+  text-align: center;
 }
